@@ -1,0 +1,11 @@
+/*
+ * File:    {{FILEE}}
+ * Author:  {{NAME}} ({{EMAIL}})
+ * Created: {{TODAY}}
+ * Description: 
+ */
+
+#ifndef {{MACRO_GUARD}}
+#define {{MACRO_GUARD}}
+
+#endif /* {{MACRO_GUARD}} */
